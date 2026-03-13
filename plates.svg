@@ -1,12 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
   <!-- bar -->
-  <rect x="10" y="30" width="44" height="4" rx="2" fill="#888"></rect>
+  <rect x="8" y="28" width="48" height="8" rx="3" fill="#9aa0a6"/>
 
-  <!-- left side -->
-  <rect x="14" y="24" width="6" height="16" rx="2" fill="#f2c94c"></rect>   <!-- 25kg -->
-  <rect x="21" y="20" width="6" height="24" rx="2" fill="#d33"></rect> <!-- 15kg -->
+  <!-- left side (outer → inner) -->
+  <rect x="13" y="24" width="8" height="16" rx="2" fill="#f2c94c"/> <!-- 15kg -->
+  <rect x="21" y="18" width="8" height="28" rx="2" fill="#d33"/>    <!-- 25kg -->
 
   <!-- right side -->
-  <rect x="37" y="20" width="6" height="24" rx="2" fill="#d33"></rect> <!-- 15kg -->
-  <rect x="44" y="24" width="6" height="16" rx="2" fill="#f2c94c"></rect>   <!-- 25kg -->
+  <rect x="43" y="24" width="8" height="16" rx="2" fill="#f2c94c"/> <!-- 15kg -->
+  <rect x="35" y="18" width="8" height="28" rx="2" fill="#d33"/>    <!-- 25kg -->
 </svg>
